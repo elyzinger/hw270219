@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Model>yaris41</Model>
+    <Brand>toyota</Brand>
+    <Year>2018</Year>
+    <Color>red</Color>
+  </Car>
+  <Car>
+    <Model>yaris13</Model>
+    <Brand>toyota</Brand>
+    <Year>2018</Year>
+    <Color>red</Color>
+  </Car>
+  <Car>
+    <Model>yaris</Model>
+    <Brand>toyota3</Brand>
+    <Year>2018</Year>
+    <Color>red</Color>
+  </Car>
+  <Car>
+    <Model>yaris</Model>
+    <Brand>toyota</Brand>
+    <Year>2020</Year>
+    <Color>red</Color>
+  </Car>
+</ArrayOfCar>
